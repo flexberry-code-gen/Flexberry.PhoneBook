@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "ContactType",
+      "projection": "ContactTypeL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Contact",
+  "name": "IISPhoneBookContactE",
+  "className": "ContactE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-phone-book-contact",
+      "modelProjection": "ContactE"
+    }
+  ]
+}

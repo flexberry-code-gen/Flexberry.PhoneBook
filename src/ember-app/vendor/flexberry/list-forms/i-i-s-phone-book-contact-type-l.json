@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-phone-book-contact-type-e",
+  "editForm": "i-i-s-phone-book-contact-type-e",
+  "external": false,
+  "caption": "Contact type",
+  "name": "IISPhoneBookContactTypeL",
+  "className": "ContactTypeL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-phone-book-contact-type",
+      "modelProjection": "ContactTypeL"
+    }
+  ]
+}

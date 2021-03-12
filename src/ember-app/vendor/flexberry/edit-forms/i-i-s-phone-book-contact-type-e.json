@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Contact type",
+  "name": "IISPhoneBookContactTypeE",
+  "className": "ContactTypeE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-phone-book-contact-type",
+      "modelProjection": "ContactTypeE"
+    }
+  ]
+}

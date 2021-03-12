@@ -1,0 +1,29 @@
+﻿{
+  "applicationCaption": "Phone book",
+  "applicationTitle": "Phone book",
+  "items": [
+    {
+      "link": null,
+      "menuName": "phone-book",
+      "caption": "PhoneBook",
+      "title": "PhoneBook",
+      "children": [
+        {
+          "link": "i-i-s-phone-book-contact-type-l",
+          "menuName": null,
+          "caption": "Contact type",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-phone-book-contact-l",
+          "menuName": null,
+          "caption": "Contact",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
